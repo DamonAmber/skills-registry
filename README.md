@@ -7,6 +7,7 @@
 | 技能 | 描述 | 标签 |
 |------|------|------|
 | **replicate-design** | 将 App 截图高保真复刻到 Pencil (.pen) 设计文件，使用设计师+审核员双 Agent 迭代循环 | design, pencil, multi-agent, ui |
+| **mijia-sentiment** | 米家App舆情分析周报生成工具，自动筛选负面反馈、27类问题分类、生成Excel周报 | sentiment, analytics, excel, mijia |
 
 ## 使用方法
 

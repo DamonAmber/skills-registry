@@ -14,6 +14,17 @@
         "agents/reviewer.md",
         "references/design-checklist.md"
       ]
+    },
+    {
+      "name": "mijia-sentiment",
+      "description": "米家App舆情分析周报生成工具，自动筛选负面反馈、27类问题分类、生成Excel周报",
+      "author": "DamonAmber",
+      "version": "1.0.0",
+      "tags": ["sentiment", "analytics", "excel", "mijia"],
+      "files": [
+        "SKILL.md",
+        "references/classification.md"
+      ]
     }
   ]
 }
