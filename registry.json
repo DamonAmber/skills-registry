@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updated": "2026-04-09",
+  "skills": [
+    {
+      "name": "replicate-design",
+      "description": "将 App 截图高保真复刻到 Pencil (.pen) 设计文件，使用设计师+审核员双 Agent 迭代循环",
+      "author": "DamonAmber",
+      "version": "1.0.0",
+      "tags": ["design", "pencil", "multi-agent", "ui"],
+      "files": [
+        "SKILL.md",
+        "agents/designer.md",
+        "agents/reviewer.md",
+        "references/design-checklist.md"
+      ]
+    }
+  ]
+}
