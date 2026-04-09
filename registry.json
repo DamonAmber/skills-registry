@@ -25,6 +25,16 @@
         "SKILL.md",
         "references/classification.md"
       ]
+    },
+    {
+      "name": "weekly-report-summary",
+      "description": "米家App周报简述生成工具，从飞书电子表格周报明细中按业务领域提取关键进展，生成精炼汇总",
+      "author": "DamonAmber",
+      "version": "1.0.0",
+      "tags": ["weekly-report", "feishu", "summary", "mijia"],
+      "files": [
+        "SKILL.md"
+      ]
     }
   ]
 }
