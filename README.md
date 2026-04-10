@@ -9,6 +9,7 @@
 | **replicate-design** | 将 App 截图高保真复刻到 Pencil (.pen) 设计文件，使用设计师+审核员双 Agent 迭代循环 | design, pencil, multi-agent, ui |
 | **mijia-sentiment** | 米家App舆情分析周报生成工具，自动筛选负面反馈、27类问题分类、生成Excel周报 | sentiment, analytics, excel, mijia |
 | **weekly-report-summary** | 米家App周报简述生成工具，从飞书周报明细按业务领域提取关键进展生成精炼汇总 | weekly-report, feishu, summary, mijia |
+| **knowledge-distiller** | 将领域原始材料蒸馏提炼为结构化知识包，可通过 Dashboard 分享安装 | knowledge, distill, knowledge-pack, mijia |
 
 ## 使用方法
 

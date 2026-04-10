@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-09",
+  "updated": "2026-04-10",
   "skills": [
     {
       "name": "replicate-design",
@@ -34,6 +34,17 @@
       "tags": ["weekly-report", "feishu", "summary", "mijia"],
       "files": [
         "SKILL.md"
+      ]
+    },
+    {
+      "name": "knowledge-distiller",
+      "description": "将领域原始材料（文档、截图、经验笔记）蒸馏提炼为结构化知识包（Knowledge Pack），可通过 AI Workspace Dashboard 分享安装",
+      "author": "DamonAmber",
+      "version": "1.0.0",
+      "tags": ["knowledge", "distill", "knowledge-pack", "mijia"],
+      "files": [
+        "SKILL.md",
+        "references/pack-template.md"
       ]
     }
   ]
