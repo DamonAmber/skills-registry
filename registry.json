@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-10",
+  "updated": "2026-04-14",
   "skills": [
     {
       "name": "replicate-design",
@@ -46,6 +46,30 @@
         "SKILL.md",
         "references/pack-template.md"
       ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "consumable-domain",
+      "description": "米家App耗材领域知识包，涵盖耗材定义、分类、配置逻辑、页面结构、数据模型、多端规则和组合购买设计决策",
+      "author": "DamonAmber",
+      "version": "1.0.0",
+      "domain": "consumables",
+      "tags": ["耗材", "consumable", "米家App", "IoT", "设备维护"],
+      "files": [
+        "PACK.md",
+        "business/overview.md",
+        "business/terminology.md",
+        "business/configuration.md",
+        "business/known-issues.md",
+        "page-map/page-structure.md",
+        "data/data-model.md",
+        "data/multi-platform.md",
+        "design-system/user-interaction.md",
+        "design-system/combo-purchase-design.md"
+      ],
+      "fileCount": 10,
+      "totalSizeKB": 40
     }
   ]
 }
