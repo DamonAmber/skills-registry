@@ -11,12 +11,6 @@
 | **weekly-report-summary** | 米家App周报简述生成工具，从飞书周报明细按业务领域提取关键进展生成精炼汇总 | weekly-report, feishu, summary, mijia |
 | **knowledge-distiller** | 将领域原始材料蒸馏提炼为结构化知识包，可通过 Dashboard 分享安装 | knowledge, distill, knowledge-pack, mijia |
 
-## 可用知识包
-
-| 知识包 | 描述 | 标签 |
-|--------|------|------|
-| **consumable-domain** | 米家App耗材领域知识包，涵盖定义、分类、配置逻辑、页面结构、数据模型、多端规则和组合购买设计决策 | 耗材, consumable, IoT, 设备维护 |
-
 ## 使用方法
 
 ### 通过 AI Workspace Dashboard
