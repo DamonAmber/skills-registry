@@ -39,7 +39,8 @@ cp -R skills-registry/replicate-design ~/.claude/skills/
    ```
 3. 添加子文件（agents/、references/、scripts/）
 4. 更新 `registry.json` — 在 `skills` 数组中添加条目，`files` 列出所有文件路径
-5. 推送到 main 分支
+5. 上传到腾讯云 COS：`node tools/ai-workspace-dashboard/scripts/upload-registry-to-cos.js --type skills --dir tools/skills-registry`
+6. 提交到 Git（版本管理）
 
 ## 注册中心格式
 
@@ -62,4 +63,4 @@ cp -R skills-registry/replicate-design ~/.claude/skills/
 }
 ```
 
-文件通过 `raw.githubusercontent.com` 获取——仓库必须是**公开**的。
+文件托管在腾讯云 COS（`https://awd-1253816841.cos.ap-beijing.myqcloud.com/skills-registry/`），本 Git 仓库用于版本管理。
