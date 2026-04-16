@@ -10,6 +10,7 @@
 | **mijia-sentiment** | 米家App舆情分析周报生成工具，自动筛选负面反馈、27类问题分类、生成Excel周报 | sentiment, analytics, excel, mijia |
 | **weekly-report-summary** | 米家App周报简述生成工具，从飞书周报明细按业务领域提取关键进展生成精炼汇总 | weekly-report, feishu, summary, mijia |
 | **knowledge-distiller** | 将领域原始材料蒸馏提炼为结构化知识包，可通过 Dashboard 分享安装 | knowledge, distill, knowledge-pack, mijia |
+| **feishu** | 通过 CLI 管控飞书全量资源：文档、知识库、云盘、多维表格、表格、权限、日历日程、任务待办 | feishu, lark, docs, bitable, calendar, task, cli |
 
 ## 使用方法
 

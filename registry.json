@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-10",
+  "updated": "2026-04-16",
   "skills": [
     {
       "name": "replicate-design",
@@ -45,6 +45,22 @@
       "files": [
         "SKILL.md",
         "references/pack-template.md"
+      ]
+    },
+    {
+      "name": "feishu",
+      "description": "通过 CLI 管控飞书全量资源：文档、知识库、云盘、多维表格、表格、权限、日历日程、任务待办。支持飞书链接自动识别和资源读写操作",
+      "author": "DamonAmber",
+      "version": "1.1.8",
+      "tags": ["feishu", "lark", "docs", "bitable", "calendar", "task", "cli"],
+      "files": [
+        "SKILL.md",
+        "reference/api-behaviors.md",
+        "reference/bitable-record-values.md",
+        "reference/bitable-reference.md",
+        "reference/docx-advanced.md",
+        "reference/extended-markdown.md",
+        "reference/sheet.md"
       ]
     }
   ]
